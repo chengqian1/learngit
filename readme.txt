@@ -1,4 +1,4 @@
-git is s version control system
+git is a version control system
 
 
 dev
